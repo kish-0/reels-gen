@@ -12,5 +12,6 @@ reels is a Python app that creates story-driven reels with auto-generated voiceo
 
 ### Note
 The example input is just 1 min long, but the real inputs when running the app need to be 10 mins or longer for optimal conditions.
+🌐 https://www.youtube.com/@isheetrandomshi/shorts
 ### 🚧 This project is private 🚧
 The full code is not publicly available. If you're interested in collaboration, reach out!
